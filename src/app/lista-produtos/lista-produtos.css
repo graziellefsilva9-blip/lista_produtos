@@ -1,0 +1,9 @@
+div-form{
+    width: 600px;
+    min-height: 580px;
+    padding: 20px;
+    margin: 20px auto;
+    background-color: var(--div-fundo);
+    border-radius: 8px;
+
+}
